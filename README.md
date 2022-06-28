@@ -16,3 +16,4 @@ c盘根目录下放：ESXi-Customizer-PS-v2.6.0.ps1和ESXi670-201912001.zip
 然后在c盘创建一个whsir文件夹中放网卡驱动net55-r8168-8.045a-napi.x86_64.vib
 执行.\ESXi-Customizer-PS-v2.6.0.ps1 -izip .\ESXi670-201912001.zip -pkgDir c:\whsir\
 镜像会在C盘根目录中
+https://blog.csdn.net/u014427391/article/details/102785219
